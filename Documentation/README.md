@@ -117,7 +117,7 @@
 
 **Main Interface**
 ```
-[Screenshot placeholder: screenshots/mainui.png]
+![Screenshots placeholder](screenshots/mainui.png)
 ```
 
 **Analysis Results**
