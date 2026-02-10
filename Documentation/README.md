@@ -117,7 +117,7 @@
 
 **Main Interface**
 ```
-![Screenshots placeholder](screenshots/mainui.png)
+![Screenshots placeholder](C:\Users\Nara Yaswanth\Documents\gen ai projects\explain ai\screenshots\mainui.png)
 ```
 
 **Analysis Results**
