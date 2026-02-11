@@ -115,24 +115,19 @@
 
 ### Screenshots
 
-**Main Interface**
-```
-![Screenshots placeholder](C:\Users\Nara Yaswanth\Documents\gen ai projects\explain ai\screenshots\mainui.png)
-```
+![Main UI](screenshots/mainui.png)
 
-**Analysis Results**
-```
-[Screenshot placeholder: screenshots/results.png]
-```
+## Analysis Results
 
-**Probability Distribution**
-```
-[Screenshot placeholder: screenshots/probability.png]
-```
-**Predictions history**
-```
-[Screenshot placeholder: screenshots/history.png]
-```
+![results UI](screenshots/results.png)
+
+## Probability Distribution
+
+[probability UI](screenshots/probability.png)
+
+## Predictions history
+
+[history UI](screenshots/history.png)
 ### Live Demo
 > Deploy your Streamlit app and add link here
 
@@ -229,6 +224,7 @@ result = predictor.predict(text)
 
 print(f"Sentiment: {result['sentiment']}")
 print(f"Confidence: {result['confidence']:.2%}")
+
 
 # Get explanation
 explanation = explainer.generate_explanation(
