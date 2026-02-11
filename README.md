@@ -123,11 +123,11 @@
 
 ## Probability Distribution
 
-[probability UI](screenshots/probability.png)
+![probability UI](screenshots/probability.png)
 
 ## Predictions history
 
-[history UI](screenshots/history.png)
+![history UI](screenshots/history.png)
 ### Live Demo
 > Deploy your Streamlit app and add link here
 
